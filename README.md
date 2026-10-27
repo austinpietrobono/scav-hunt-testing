@@ -8,7 +8,9 @@ All four Halloween hunt games live in `index.html`. Each stop has its own addres
 | The Hurling Pump, Prince Street | `https://<username>.github.io/<repo>/?stop=pump` |
 | The Mannenberg Pipes, Bloem Street | `https://<username>.github.io/<repo>/?stop=mannenberg` |
 | The Witch's Broomstick, Barcadia | `https://<username>.github.io/<repo>/?stop=broomstick` |
-| The Lantern Path, St George's Cathedral | `https://<username>.github.io/<repo>/?stop=labyrinth` |
+| The Night Watch, Greenmarket Square | `https://<username>.github.io/<repo>/?stop=nightwatch` |
+
+Old `?stop=labyrinth` links also open the Night Watch.
 
 ## Publish
 
